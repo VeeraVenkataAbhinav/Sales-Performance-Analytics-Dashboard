@@ -1,0 +1,44 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Streamlit Cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Python Environment
+.env
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+
+# Output Files (Generated Automatically)
+outputs/charts/*
+outputs/data/*.csv
+
+# Power BI Auto Recovery
+*.pbix.autosave
