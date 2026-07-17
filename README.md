@@ -66,7 +66,7 @@ The platform enables managers to monitor sales performance, identify top-perform
 ## 📂 Project Structure
 
 ```text
-Retail-Sales-Analytics
+Sales Performance Analytics Dashboard
 │
 ├── data/
 ├── src/

@@ -10,7 +10,7 @@ def generate_report(summary, category_df, region_df, segment_df):
     report_path = os.path.join(REPORT_FOLDER, "business_report.txt")
 
     with open(report_path, "w") as file:
-        file.write("Retail Sales Intelligence Report\n")
+        file.write("Sales Performance Analytics Dashboard\n")
         file.write("=" * 50)
         file.write("\n\n")
 

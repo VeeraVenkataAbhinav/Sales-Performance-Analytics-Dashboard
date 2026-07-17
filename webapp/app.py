@@ -13,7 +13,7 @@ from charts import (
 from insights import generate_insights
 
 st.set_page_config(
-    page_title="Retail Sales Intelligence Dashboard",
+    page_title="Sales Performance Analytics Dashboard",
     page_icon="📊",
     layout="wide",
 )
@@ -45,7 +45,7 @@ st.markdown(
 )
 
 st.markdown(
-    '<p class="main-title">📊 Retail Sales Intelligence Platform</p>',
+    '<p class="main-title">📊 Sales Performance Analytics Dashboard</p>',
     unsafe_allow_html=True
 )
 
@@ -59,8 +59,6 @@ df = load_data()
 # Apply Filters
 df = apply_filters(df)
 
-# Dashboard Title
-st.title("📊 Sales Performance Analytics Dashboard")
 
 # KPI Cards
 metrics = get_metrics(df)
