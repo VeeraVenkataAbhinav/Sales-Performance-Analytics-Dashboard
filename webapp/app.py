@@ -60,7 +60,7 @@ df = load_data()
 df = apply_filters(df)
 
 # Dashboard Title
-st.title("📊 Retail Sales Intelligence Dashboard")
+st.title("📊 Sales Performance Analytics Dashboard")
 
 # KPI Cards
 metrics = get_metrics(df)

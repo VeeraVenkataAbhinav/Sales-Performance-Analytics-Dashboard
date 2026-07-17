@@ -1,8 +1,8 @@
-# 📊 Retail Sales Intelligence Platform
+# Sales Performance Analytics Dashboard
 
 ## 📌 Project Overview
 
-Retail Sales Intelligence Platform is an end-to-end business analytics application developed using Python, Pandas, Plotly, Streamlit, and Power BI. It helps businesses analyze retail sales data and generate meaningful insights through interactive dashboards.
+Sales Performance Analytics Dashboard is a Python and Streamlit-based business intelligence application that analyzes retail sales data through interactive dashboards and visualizations. It helps users explore sales performance, customer trends, product performance, regional insights, and key business metrics
 
 The platform enables managers to monitor sales performance, identify top-performing products and customers, analyze geographic trends, and make data-driven business decisions.
 
