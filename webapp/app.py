@@ -45,7 +45,7 @@ st.markdown(
 )
 
 st.markdown(
-    '<p class="main-title">📊 Sales Performance Analytics Dashboard</p>',
+    '<p class="main-title">🚀 TEST APP - Abhinav</p>',
     unsafe_allow_html=True
 )
 
