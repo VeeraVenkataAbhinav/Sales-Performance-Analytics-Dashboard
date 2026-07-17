@@ -21,16 +21,18 @@ st.markdown(
     """
     <style>
     .main-title{
-        font-size:38px;
-        font-weight:bold;
-        color:#1E88E5;
+        font-size:64px !important;
+        font-weight:800 !important;
+        color:#1E88E5 !important;
+        margin-bottom:0px !important;
+        line-height:1.1 !important;
     }
 
     .subtitle{
-        font-size:18px;
-        color:gray;
-        margin-top:-15px;
-        margin-bottom:20px;
+        font-size:22px;
+        color:#666666;
+        margin-top:-5px;
+        margin-bottom:25px;
     }
 
     .footer{
